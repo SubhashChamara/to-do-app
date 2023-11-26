@@ -1,4 +1,4 @@
-# To Do List
+# To Do List App
 
 Welcome to my inaugural React application – a purposeful to-do app meticulously crafted to delve into the intricacies of the React framework. This project serves as a dedicated learning ground for mastering React's core concepts, paving the way for a solid foundation in front-end development.
 
