@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# To Do List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my inaugural React application – a purposeful to-do app meticulously crafted to delve into the intricacies of the React framework. This project serves as a dedicated learning ground for mastering React's core concepts, paving the way for a solid foundation in front-end development.
 
 ## Available Scripts
 
@@ -29,42 +29,31 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Learning Objectives
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Develop a profound understanding of React through practical application.
+Strengthen your ability to build modular and reusable components.
+Front-end Development Insights:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Navigate the nuances of front-end development with a focus on user-centric design.
+Learn to structure and style React applications for optimal visual appeal.
+Back-end Integration Exploration:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Examine the integration of React with back-end technologies for data management.
+Understand the flow of data between the front-end and back-end systems.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Contact
+ 
+-  Discode-https://discord.com/channels/Subhash#5290
+-  Email-  mailto:Udayanga.subash@gmail.com
+    
+### Follow me
 
-## Learn More
+- GitHub-https://github.com/SubhashChamara
+- Linkedin-https://www.linkedin.com/in/subhash-chamara-udayanga-633578174/
+- Twitter-https://twitter.com/chamara_subhash?t=e7Qt_Z5c0eEg426tqdXxrQ&s=09
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### License
+This application is licensed under this [license](License.txt)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Copyright &copy; 2023 | Subhash Chamara Udayanga | All Rights Reserved.
