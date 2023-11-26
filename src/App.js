@@ -1,24 +1,32 @@
-import logo from './logo.svg';
+import { useState } from 'react';
 import './App.css';
 
 function App() {
+
+  const [taskArray,setTaskArray]=useState ([]);
+  const [value,setValue] = useState('');
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className={'p-2'}>
+
+     <h1 className={'text-center p-10'}>Simple Task App</h1> 
+     <div className={'d-flex gap-2'}>
+        <input type='text' className='form-control' value={value}  placeholder='Enter Something to Add' onInput={(e)=>{
+          setValue(e.target.value)
+        }} ></input>
+        <button className='btn btn-primary' 
+          onClick={()=>{
+            setTaskArray([...taskArray,value]);
+            setValue('');
+            
+    }
+       }>ADD</button>
+     </div> 
+     <div>
+        {taskArray.map(task => <div>{task}</div>)}
+     </div>
     </div>
+ 
   );
 }
 
